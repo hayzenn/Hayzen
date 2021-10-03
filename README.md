@@ -1,7 +1,7 @@
 <h1 align="center">"Hayzen</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/861652884519911447/879119277473538058/standard.gif">
+  <img src="https://cdn.discordapp.com/banners/844987352925339668/a_ed07d5e7634ce10cbf5dd88736fd0fea.gif?size=300">
   <br><br>
 </p>
 
