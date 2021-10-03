@@ -8,6 +8,7 @@
 #
 ```diff
 👤 >> Web Integrator, Offensive Security.
+📧 >> hayzendev@protonmail.com
 ```
 #
 <h1 align="center">LANGUAGES</h1>
