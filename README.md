@@ -1,7 +1,7 @@
 <h1 align="center">"Hayzen</h1>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/844987352925339668">
+  <img src="https://www.wago.com/medias/embedded-linux-2000x1125px.jpg?context=bWFzdGVyfGltYWdlc3wxNDkyOTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDUyL2hhZC84ODQ4MDc1MzkxMDA2LmpwZ3w0MTJhYWQ0ZDU0YjBkNmZiYzU5MmVhOTMwN2Y1MDIyZjE3NTA3MWMyNzI5YThiOWQzYjUxMGQ0ZDFkMWRhNTFj">
   <br><br>
 </p>
 
